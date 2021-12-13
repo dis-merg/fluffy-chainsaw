@@ -7,7 +7,7 @@ Red: #df2935
 Yellow: #fdca40
 */
 
-d3.csv("./data/Top100Chains1.csv").then(function(data) {
+d3.csv("./Top100Chains1.csv").then(function(data) {
 
     // SVG CANVAS
 
