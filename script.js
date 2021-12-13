@@ -197,28 +197,28 @@ d3.csv("./Top100Chains1.csv").then(function(data) {
 
     // ZOOM
 
-        const zoom = d3.zoom()
-            .scaleExtent([1,10])
-            .on('zoom', zoomed);
+//         const zoom = d3.zoom()
+//             .scaleExtent([1,10])
+//             .on('zoom', zoomed);
 
-        svg.call(zoom);
+//         svg.call(zoom);
 
-        let k = 1;
-        let tX = 0;
-        let tY = 0;
+//         let k = 1;
+//         let tX = 0;
+//         let tY = 0;
 
-        function zoomed(e) {
+//         function zoomed(e) {
 
-            k = e.transform.k;
-            tX = e.transform.x;
-            tY = e.transform.y;
+//             k = e.transform.k;
+//             tX = e.transform.x;
+//             tY = e.transform.y;
 
-            g.attr("transform", e.transform);
-            g.selectAll("circle").attr("r", function() {
-                return +this.attr("r")/k;
-            });
+//             g.attr("transform", e.transform);
+//             g.selectAll("circle").attr("r", function() {
+//                 return +this.attr("r")/k;
+//             });
 
-        }
+//         }
 
     // CHECKBOX FILTERING
 
