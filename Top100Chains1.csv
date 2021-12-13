@@ -1,0 +1,51 @@
+﻿rank,chain,year,sales,salesChange,units,unitsChange,segment,category,franchise,workerPay
+1,McDonald's,2020,4051.7,0.30%,13682,-1.20%,Quick Service,Burger,yes,10.68
+2,Starbucks,2020,1848.5,-13.50%,15337,1.90%,Quick Service,Coffee Café,no,11.77
+3,Chick-fil-A,2020,1374.5,13.00%,2659,6.70%,Quick Service,Chicken,yes,11.7
+4,Taco Bell,2020,1129.4,0.00%,6799,0.50%,Quick Service,Mexican,yes,10.39
+5,Wendy's,2020,1023.1,4.80%,5881,0.50%,Quick Service,Burger,yes,9.91
+6,Burger King,2020,965.7,-5.40%,7081,-3.60%,Quick Service,Burger,yes,9.63
+7,Dunkin',2020,876.2,-5.10%,9083,-5.70%,Quick Service,Coffee Cafe,yes,10.46
+8,Subway,2020,831.8,-18.50%,22005,-7.50%,Quick Service,Sandwich,yes,10.27
+9,Domino's,2020,828.7,17.60%,6355,3.70%,Quick Service,Pizza,yes,10.34
+10,Chipotle Mexican Grill,2020,592.1,6.50%,2724,5.60%,Fast Casual,Mexican,no,11.81
+11,Sonic Drive-In,2020,568,21.20%,3526,0.00%,Quick Service,Burger,yes,9.53
+12,Pizza Hut,2020,543.6,-2.20%,6561,-10.20%,Quick Service,Pizza,yes,8.93
+13,Panera Bread,2020,535,-10.50%,2106,-2.30%,Fast Casual,Sandwich,no,10.85
+14,KFC,2020,474.2,4.30%,3943,-3.00%,Quick Service,Chicken,yes,9.79
+15,Popeyes Louisiana Kitchen,2020,458.7,20.30%,2608,5.30%,Quick Service,Chicken,yes,11.02
+16,Arby's,2020,421.5,8.50%,3369,0.30%,Quick Service,Sandwich,yes,10.36
+17,Dairy Queen,2020,397.8,5.80%,4361,-0.50%,Quick Service,Frozen Desserts,yes,10.7
+18,Little Caesars,2020,394.7,3.50%,4150,-1.50%,Quick Service,Pizza,yes,10.09
+19,Panda Express,2020,381.7,-3.30%,2263,2.40%,Fast Casual,Asian/Noodle,no,12.49
+20,Jack in the Box,2020,367.3,4.80%,2241,-0.10%,Quick Service,Burger,yes,10.96
+21,Olive Garden,2020,340.7,-20.50%,868,0.20%,Casual Dining,Italian/Pizza,no,11.54
+22,Papa John's,2020,319.1,15.90%,3134,-0.30%,Quick Service,Pizza,yes,9.82
+23,Buffalo Wild Wings,2020,311.4,-15.10%,1204,-0.20%,Casual Dining,Sports Bar,yes,11.39
+24,Applebee's,2020,310.1,-24.10%,1600,-3.90%,Casual Dining,Varied Menu,yes,11.5
+25,Chili's Grill & Bar,2020,308.2,-13.50%,1233,-0.70%,Casual Dining,Varied Menu,yes,11.74
+1,McDonald's,2019,4039.6,,13848,,Quick Service,Burger,yes,10.68
+2,Starbucks,2019,2137,,15051,,Quick Service,Coffee Café,no,11.77
+3,Chick-fil-A,2019,1216.371681,,2492.03,,Quick Service,Chicken,yes,11.7
+4,Taco Bell,2019,1129.4,,6765.17,,Quick Service,Mexican,yes,10.39
+5,Wendy's,2019,976.240458,,5851.74,,Quick Service,Burger,yes,9.91
+6,Burger King,2019,1020.824524,,7345.44,,Quick Service,Burger,yes,9.63
+7,Dunkin',2019,923.2876712,,9632.03,,Quick Service,Coffee Cafe,yes,10.46
+8,Subway,2019,1020.6,,23789,,Quick Service,Sandwich,yes,10.27
+9,Domino's,2019,704.6768707,,6128.25,,Quick Service,Pizza,yes,10.34
+10,Chipotle Mexican Grill,2019,555.9624413,,2579.55,,Fast Casual,Mexican,no,11.81
+11,Sonic Drive-In,2019,468.6468647,,3526,,Quick Service,Burger,yes,9.53
+12,Pizza Hut,2019,555.8282209,,7306.24,,Quick Service,Pizza,yes,8.93
+13,Panera Bread,2019,597.7653631,,2155.58,,Fast Casual,Sandwich,no,10.85
+14,KFC,2019,454.6500479,,4064.95,,Quick Service,Chicken,yes,9.79
+15,Popeyes Louisiana Kitchen,2019,381.2967581,,2476.73,,Quick Service,Chicken,yes,11.02
+16,Arby's,2019,388.4792627,,3358.92,,Quick Service,Sandwich,yes,10.36
+17,Dairy Queen,2019,375.9924386,,4382.91,,Quick Service,Frozen Desserts,yes,10.7
+18,Little Caesars,2019,381.352657,,4213.2,,Quick Service,Pizza,yes,10.09
+19,Panda Express,2019,394.7259566,,2209.96,,Fast Casual,Asian/Noodle,no,12.49
+20,Jack in the Box,2019,350.4770992,,2243.24,,Quick Service,Burger,yes,10.96
+21,Olive Garden,2019,428.5534591,,866.27,,Casual Dining,Italian/Pizza,no,11.54
+22,Papa John's,2019,275.3235548,,3143.43,,Quick Service,Pizza,yes,9.82
+23,Buffalo Wild Wings,2019,366.7844523,,1206.41,,Casual Dining,Sports Bar,yes,11.39
+24,Applebee's,2019,408.5638999,,1664.93,,Casual Dining,Varied Menu,yes,11.5
+25,Chili's Grill & Bar,2019,356.300578,,1241.69,,Casual Dining,Varied Menu,yes,11.74
